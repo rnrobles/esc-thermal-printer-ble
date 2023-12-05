@@ -32,6 +32,9 @@ In step 4 we select plain bytes and press the Generate Code button
 
 we copy only the generated array and add it to our .ino in the logo array
 
+## How to use the library
+
+Download the zip file, unzip the content to the /Arduino/libraries path of your IDE, once the folder is copied you will be able to see the examples in the menu, or open the .ino of the example folder.
 
 ## If the library was useful to you
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A3RVNSG)
