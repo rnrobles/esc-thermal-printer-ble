@@ -33,6 +33,9 @@ In step 4 we select plain bytes and press the Generate Code button
 we copy only the generated array and add it to our .ino in the logo array
 
 
+## If the library was useful to you
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A3RVNSG)
+
 ## License
 
 You may use this work under the terms of either the MIT License or the GNU General Public License (GPL) Version 3
