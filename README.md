@@ -43,7 +43,7 @@ You may use this work under the terms of either the MIT License or the GNU Gener
 
 ### Keywords
 
-thermal, micro, receipt, printer, serial, tm-t88, tm88, tmt88, epson, arduino, tm20, tm-t20, tmt20
+thermal, micro, receipt, printer, serial, epson, arduino
 
 
 ## Based on
